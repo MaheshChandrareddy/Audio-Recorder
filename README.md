@@ -6,7 +6,7 @@ A simple yet powerful iOS Audio Recorder app built using AVFoundation. This app 
   <tr>
     <td> 
       <img src="https://github.com/user-attachments/assets/8a35c71d-bcdc-4c6a-82c0-7d08c70f869a" width="150">
-      <img src="https://github.com/user-attachments/assets/3c596a05-41b2-4203-86c2-b6631a32ec04" width="150">
+      <img src="https://github.com/user-attachments/assets/0a438893-fb5f-4c44-b673-82c6891dca64" width="150"/>
        <img src="https://github.com/user-attachments/assets/dcaeb93b-05e9-40f6-9dd6-de344308853d" width="150">
     </td>
     <td>
