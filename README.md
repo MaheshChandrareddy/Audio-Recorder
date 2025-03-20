@@ -1,39 +1,30 @@
-# Audio-Recorder
+# 🎙️ Audio Recorder App
 A simple yet powerful iOS Audio Recorder app built using AVFoundation. This app allows users to record, play, pause, and delete voice recordings with a smooth UI and custom waveform animations.
 
-# 🎙️ Audio Recorder App  
+---
 
-The app allows users to record, play, and manage voice recordings with custom animations.
+<div align="center">
+  <img src="https://via.placeholder.com/300" alt="Audio Recorder" width="300">
+  <div style="display: inline-block; text-align: left; vertical-align: top; margin-left: 20px;">
+    <h3>📌 Technologies</h3>
+    <ul>
+      <li>🎤 AVFoundation</li>
+      <li>🎨 Custom Animations</li>
+      <li>📀 Core Data (for saving recordings)</li>
+      <li>💾 Local Storage & Playback</li>
+    </ul>
+    <br>
+    <a href="https://apps.apple.com/app-id">  
+      <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="150">
+    </a>
+  </div>
+</div>
 
 ---
 
-![Audio Recorder](screenshots/recording.png)
-
-## 🚀 Technologies Used  
-- 🎤 **AVFoundation** (Audio Recording & Playback)  
-- 🎨 **Custom Animations** (Smooth waveform animations)  
-- 📁 **FileManager** (Store and retrieve audio)  
-- 🎛 **UIKit** (User Interface & Controls)  
-- 🛠 **Swift 5** (Modern iOS Development)  
-
----
-
-## ✨ Features  
-✅ **Record Audio** – High-quality recording using AVFoundation  
-✅ **Playback & Pause** – Smooth audio playback with controls  
-✅ **Live Waveform Animation** – Real-time visual feedback  
-✅ **Save & Delete Recordings** – Easy file management  
-
----
-
-## 📸 Screenshots  
-| 🎙️ Recording | 🎵 Playback | 🗑️ Delete |  
-|------------|------------|------------|  
-| ![Recording](screenshots/recording.png) | ![Playback](screenshots/playback.png) | ![Delete](screenshots/delete.png) |  
-
----
-
-## 📥 Installation  
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/yourusername/AudioRecorder-App.git
+## 🚀 Features  
+✔️ Record high-quality audio  
+✔️ Save & organize recordings  
+✔️ Custom animations for a smooth UI  
+✔️ Delete or rename recordings  
+✔️ Background playback support  
