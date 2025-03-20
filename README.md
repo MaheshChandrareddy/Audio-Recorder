@@ -1,13 +1,14 @@
 # 🎙️ Audio Recorder App
+# 🎙️ Audio Recorder App
 A simple yet powerful iOS Audio Recorder app built using AVFoundation. This app allows users to record, play, pause, and delete voice recordings with a smooth UI and custom waveform animations.
 
 ---
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/user-attachments/assets/8a35c71d-bcdc-4c6a-82c0-7d08c70f869a" width="150">
-      <img src="https://github.com/user-attachments/assets/0a438893-fb5f-4c44-b673-82c6891dca64" width="150"/>
-       <img src="https://github.com/user-attachments/assets/dcaeb93b-05e9-40f6-9dd6-de344308853d" width="150">
+      <img src="https://github.com/user-attachments/assets/de76a09f-2d7a-4e2d-b26c-008a3f0031fe" width="150">
+      <img src="https://github.com/user-attachments/assets/0a438893-fb5f-4c44-b673-82c6891dca64" width="150">
+      <img src="https://github.com/user-attachments/assets/dcaeb93b-05e9-40f6-9dd6-de344308853d" width="150">
     </td>
     <td>
       <h3>📱 Audio Recorder</h3>
@@ -18,10 +19,11 @@ A simple yet powerful iOS Audio Recorder app built using AVFoundation. This app 
         <li>📀 Core Data (for saving recordings)</li>
         <li>💾 Local Storage & Playback</li>
       </ul>
+      <br>
+      🔗 <a href="https://github.com/MaheshChandrareddy/Audio-Recorder"> View Repository</a>
     </td>
   </tr>
 </table>
-
 
 ---
 
