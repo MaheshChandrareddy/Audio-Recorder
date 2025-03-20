@@ -4,7 +4,7 @@ A simple yet powerful iOS Audio Recorder app built using AVFoundation. This app 
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/300" alt="Audio Recorder" width="300">
+  <img src="https://github.com/user-attachments/assets/3c596a05-41b2-4203-86c2-b6631a32ec04" alt="Audio Recorder" width="300">
   <div style="display: inline-block; text-align: left; vertical-align: top; margin-left: 20px;">
     <h3>📌 Technologies</h3>
     <ul>
@@ -14,9 +14,6 @@ A simple yet powerful iOS Audio Recorder app built using AVFoundation. This app 
       <li>💾 Local Storage & Playback</li>
     </ul>
     <br>
-    <a href="https://apps.apple.com/app-id">  
-      <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="150">
-    </a>
   </div>
 </div>
 
